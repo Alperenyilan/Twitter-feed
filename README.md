@@ -24,7 +24,7 @@ import "firebase/database";
 
 const firebaseConfig = {
     apiKey: "AIzaSyAWhc2XOQWWYAay1KZlYZF3Dxofj9h-Yag", "************"
-    authDomain: "twitter-clone-2f23f.firebaseapp.com",
+    authDomain: "twitter-clone-2f23f.firebaseapp.com",			
     projectId: "twitter-clone-2f23f",
     storageBucket: "twitter-clone-2f23f.appspot.com",
     messagingSenderId: "1066171149802",
