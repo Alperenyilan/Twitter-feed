@@ -31,6 +31,11 @@ const firebaseConfig = {
     appId: "1:1066171149802:web:8c8ce0c2a2748fae015693",
     measurementId: "G-BRNN687BGK"
   };
+
+# SCREENSHOT
+
+![twitter clone](https://github.com/Alperenyilan/Twitter-feed/assets/49797242/52688a02-a5a2-40fd-b505-f15c80a13e63)
+
   
   // Initialize Firebase
 
